@@ -4,9 +4,10 @@ Hey there! 🎉 I'm Łukasz, a self-proclaimed code wrangler and professional co
 
 ## About Me
 
-- 🔭 Currently trying to hack: [Project or Assignment Name]
+I am a student of two engineering majors and a former athlete who has found his interests in the fields of programming and electronics. I am open to new technologies and always strive for self-improvement and process optimisation.
+
 - 🌱 Currently learning: Python
-- 💬 Ask me about: [Why pineapple on pizza is the real developer debate]
+- 💬 Ask me about: Why pineapple on pizza is the real developer debate
 - 📫 How to reach me: Send a message via carrier pigeon or try emailing me at lukasz.kowalka.21@gmail.com
 
 ## Projects
