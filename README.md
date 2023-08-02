@@ -4,7 +4,7 @@ Hey there! 🎉 I'm Łukasz, a self-proclaimed code wrangler and professional co
 
 ## About Me
 
-I am a student of two engineering majors and a former athlete who has found his interests in the fields of programming and electronics. I am open to new technologies and always strive for self-improvement and process optimisation.
+I am a student of two engineering majors and a former athlete who has found his interests in the fields of programming and electronics. I am open to new technologies and always strive for self-improvement and process optimisation. I am motivated to put my knowledge into practice and develop my skills in a professional environment.
 
 - 🌱 Currently learning: Python
 - 💬 Ask me about: Why pineapple on pizza is the real developer debate
