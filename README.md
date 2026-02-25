@@ -16,8 +16,9 @@ Prepare to be amazed by these wizardry projects:
 
 Using camera Open CV, python and chess engine stockfish to make best move in position.
 1. Robotic-arm-to-play-chess https://www.youtube.com/watch?v=47uEyDZwU2w - A robot arm to play chess with a human. Motion recognition using the camera and OpenCV library in Python. Arm control thanks to Arduino UNO and CNC Shield V3 overlay. Frames made of thermally straightened and glued sewage pipes.
-2. Przygodowo-ETI-University-Project-Game https://youtu.be/hr3RDENKnAM - 2D Java Game 
-3. Chess-vision-system https://www.youtube.com/watch?v=mXUxtcHVHng - Using camera Open CV, python and chess engine stockfish to make best move in position.
+2. Electronic chessboard https://www.youtube.com/watch?v=nbsZAf8aXBU - Smart electronic chessboard with automatic piece detection (64 squares), FEN export, move logging, ESP32 Wi-Fi, embedded HTTP server + web UI, JSON communication, and Lichess integration.
+3. Przygodowo-ETI-University-Project-Game https://youtu.be/hr3RDENKnAM - 2D Java Game 
+4. Chess-vision-system https://www.youtube.com/watch?v=mXUxtcHVHng - Using camera Open CV, python and chess engine stockfish to make best move in position.
 
 ## Courses and Certificates
 
